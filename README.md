@@ -19,4 +19,4 @@ The probabilistic programming language Omega, implemented in Julia, gives the ab
 
 4.       Artificial Randomly Generated Signaling Network: https://github.com/SunnyXu/artificial_random_signaling_network
 
-These models display some of the applications where casual inference and Omega can shine when applied to biological problems.
+These models display some of the applications where casual inference and Omega can shine when applied to biological problems. Please see the corresponding jupyter notebook for each model for more details.
