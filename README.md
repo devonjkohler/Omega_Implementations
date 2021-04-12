@@ -1,5 +1,5 @@
 # Omega_Implementations
-This github explores a variety of biological models implemented using the probabilistic programming language Omega:
+This repository explores a variety of biological models implemented using the probabilistic programming language Omega:
 
 https://github.com/zenna/Omega.jl
 
