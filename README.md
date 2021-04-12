@@ -15,7 +15,7 @@ The probabilistic programming language Omega, implemented in Julia, gives the ab
 
 2.       Rule-based model of Kinase phosphorylation: https://github.com/djinnome/kappa-counterfactuals 
 
-3.       Organelle Count: One equation model describing cell counts
+3.       Organelle Count: Single equation model describing cell counts
 
 4.       Artificial Randomly Generated Signaling Network: https://github.com/SunnyXu/artificial_random_signaling_network
 
